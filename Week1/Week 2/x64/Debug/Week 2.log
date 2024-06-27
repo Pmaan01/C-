@@ -1,0 +1,6 @@
+﻿  GuessANumber.cpp
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\Week1\Week 2\GuessANumber.cpp(21,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  utility.cpp
+  utillity.cpp
+  Generating Code...
+  Week 2.vcxproj -> C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\x64\Debug\Week2.exe

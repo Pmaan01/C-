@@ -1,0 +1,3 @@
+﻿  RandomNumberTest.cpp
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\RandomNumberTest\RandomNumberTest.cpp(17,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RandomNumberTest.vcxproj -> C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\x64\Debug\RandomNumberTest.exe

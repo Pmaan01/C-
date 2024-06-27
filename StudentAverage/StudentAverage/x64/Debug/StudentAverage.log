@@ -1,0 +1,7 @@
+﻿  Student.cpp
+  StudentTest.cpp
+  Generating Code...
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\StudentAverage\StudentAverage\StudentTest.cpp(32,9): error C2039: 'SetCourse': is not a member of 'Student'
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\StudentAverage\StudentAverage\StudentTest.cpp(39,7): error C2039: 'ComputeAverage': is not a member of 'Student'
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\StudentAverage\StudentAverage\StudentTest.cpp(40,40): error C2039: 'GetAverage': is not a member of 'Student'
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\StudentAverage\StudentAverage\StudentTest.cpp(41,27): error C2039: 'GetLetterGrade': is not a member of 'Student'

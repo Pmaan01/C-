@@ -1,0 +1,13 @@
+﻿  Account.cpp
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\AdvancedAccount\DollarAmount.h(13,29): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\AdvancedAccount\DollarAmount.h(19,29): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\AdvancedAccount\Account.cpp(13,20): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+  TestAccount.cpp
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\AdvancedAccount\DollarAmount.h(13,29): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\AdvancedAccount\DollarAmount.h(19,29): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\AdvancedAccount\TestAccount.cpp(47,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\AdvancedAccount\account.h(114,1): warning C4715: 'Account::CompoundInterestMonthly': not all control paths return a value
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\AdvancedAccount\account.h(134,1): warning C4715: 'Account::CompoundInterestDaily': not all control paths return a value
+C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\AdvancedAccount\account.h(93,1): warning C4715: 'Account::CompoundInterestYearly': not all control paths return a value
+  AdvancedAccount.vcxproj -> C:\Users\000484570\OneDrive\CSTP 1205  Visual studio PM\CSTP1205\x64\Debug\AdvancedAccount.exe
